@@ -6,4 +6,6 @@ Made to be run locally on the same machine that is hosting your model, can then 
 
 I'm too lazy to write how to use it, so you're just gonna have to figure it out.
 
+
+-----------
 ![Xllama UI](XllamaUI.png)
